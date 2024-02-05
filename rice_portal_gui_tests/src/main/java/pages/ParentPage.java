@@ -1,10 +1,11 @@
 package pages;
 
+import libs.ConfigProvider;
 import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 
 abstract public class ParentPage extends CommonActionsWithElements {
-    final String baseUrl = "https://dev160-rice-eda-portal-web.rice-test.merlin/";
+    final String baseUrl = ConfigProvider.configProperties.base_url();
 
     public ParentPage(WebDriver webDriver) {
         super(webDriver);
