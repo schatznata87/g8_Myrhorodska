@@ -7,23 +7,25 @@ import pages.CommonActionsWithElements;
 
 public class Header  extends CommonActionsWithElements {
 
-    @FindBy(xpath = "//*[@id=\"root\"]/div/div/div/button")
-    private WebElement buttonSingIn;
+    @FindBy(xpath = "//.//div[@class='pniDPk']")
+    private WebElement cart;
 
     public Header(WebDriver webDriver) {
         super(webDriver);
     }
 
-    public void checkIsSingInVisible() {
-        checkElementDisplayed(buttonSingIn);
+    public void checkIsCartVisible() {
+        checkElementDisplayed(cart);
     }
-    public void clickOnButtonSingIn() {
-        clickOnElement(buttonSingIn);
+
+    public boolean isCartVisible() {
+        return isElementDisplayed(cart);
     }
-    //is button Sign In visible
-    public boolean isButtonSignInVisible() {
-        return isElementDisplayed(buttonSingIn);
+
+    public void clickOnCart() {
+        clickOnElement(cart);
     }
+
 
 }
 
