@@ -1,4 +1,7 @@
 package org.example;
+
+import org.junit.Test;
+
 /*go to home page
  find language locator
  click on value
@@ -6,4 +9,10 @@ package org.example;
  */
 public class LanguageDropdownTest extends BaseTest{
 
+    @Test
+    public void CheckLanguage(){
+
+    }
 }
+
+

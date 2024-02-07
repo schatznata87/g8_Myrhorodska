@@ -9,6 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
@@ -112,4 +113,26 @@ public class CommonActionWithElements {
     public void waitForElementToBeClickable(WebElement element) {
         WebDriverWait wait = new WebDriverWait(webDriver, Duration.ofSeconds(10));
         wait.until(ExpectedConditions.elementToBeClickable(element));
-}}
+    }
+    protected void selectValueInDropDown(WebElement dropDown, String value) {
+        try {
+            Select select = new Select(dropDown);
+            select.selectByValue(value);
+            logger.info(value + " was selected in DropDown " + getElementName(dropDown));
+        } catch (Exception e) {
+            logger.error("Can't work with element");
+            Assert.fail("Can't work with element");
+        }
+    }
+
+    protected void selectTextInDropDown(WebElement dropDown, String text) {
+        try {
+            Select select = new Select(dropDown);
+            select.selectByVisibleText(text);
+            logger.info(text + " was selected in DropDown " + getElementName(dropDown));
+        } catch (Exception e) {
+            logger.error("Can't work with element");
+            Assert.fail("Can't work with element");
+        }
+    }
+}
