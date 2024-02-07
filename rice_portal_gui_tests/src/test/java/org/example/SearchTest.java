@@ -17,6 +17,7 @@ import static org.junit.Assert.assertTrue;
 
 
 public class SearchTest  extends BaseTest {
+    final String SEARCH_BODY = "Штани";
     @Test
     public void searchButtonTest() {
         pageProvider.getHomePage().openHomePage();
