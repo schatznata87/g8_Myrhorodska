@@ -1,12 +1,15 @@
-package mainTests;
+package org.example;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
-import libs.ConfigProvider;
+import org.example.libs.ConfigProvider;
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+import org.example.pages.PageProvider;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Rule;
 import org.junit.rules.TestName;
+import org.junit.runner.Description;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
@@ -16,29 +19,27 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.openqa.selenium.safari.SafariDriver;
-import pages.PageProvider;
 
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
     public class BaseTest {
+
         WebDriver webDriver;
         protected Logger logger = Logger.getLogger(getClass());
         protected PageProvider pageProvider;
 
-        //will be executed before each test (open browser)
-
         @Before
         public void setUp() {
-            logger.info("----" + testName.getMethodName() + " was started----");
-            webDriver = initDriver();//create browser
-            webDriver.manage().window().maximize();
-            webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(ConfigProvider.configProperties.TIME_FOR_DEFAULT_WAIT()));
+            logger.info("---------" + testName.getMethodName() + " was started ----------");
+            webDriver = initDriver();
+            webDriver.manage().window().maximize();//maximize window
+            webDriver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));//wait 5 sec
             logger.info("Browser was opened");
             pageProvider = new PageProvider(webDriver);//start pageProvider
-
         }
+
 
         @After
         public void tearDown() {
@@ -47,11 +48,13 @@ import java.time.Duration;
             logger.info("----" + testName.getMethodName() + " was ended----");
         }
 
+
         @Rule
         public TestName testName = new TestName();
-        private WebDriver initDriver(){
+
+        private WebDriver initDriver() {
             String browser = System.getProperty("browser");
-            if ((browser==null) || "chrome".equalsIgnoreCase(browser)){
+            if ((browser == null) || "chrome".equalsIgnoreCase(browser)) {
                 ChromeOptions ops = new ChromeOptions();
                 ops.addArguments("--remote-allow-origins=*");
                 WebDriverManager.chromedriver().setup();
@@ -59,18 +62,18 @@ import java.time.Duration;
             } else if ("firefox".equalsIgnoreCase(browser)) {
                 WebDriverManager.firefoxdriver().setup();
                 webDriver = new FirefoxDriver();
-            }else if ("safari".equalsIgnoreCase(browser)) {
+            } else if ("safari".equalsIgnoreCase(browser)) {
                 WebDriverManager.safaridriver().setup();
                 webDriver = new SafariDriver();
-            }else if ("edge".equalsIgnoreCase(browser)){
+            } else if ("edge".equalsIgnoreCase(browser)) {
                 WebDriverManager.edgedriver().setup();
-                webDriver=new EdgeDriver();
-            }else if ("ie".equalsIgnoreCase(browser)) {
+                webDriver = new EdgeDriver();
+            } else if ("ie".equalsIgnoreCase(browser)) {
 //WebDriverManager.iedriver().setup();
 // in most cases 32bit version is needed
                 WebDriverManager.iedriver().arch32().setup();
                 return new InternetExplorerDriver();
-            }else if ("remote".equals(browser)) {
+            } else if ("remote".equals(browser)) {
                 WebDriverManager.chromedriver().setup();
                 DesiredCapabilities cap = new DesiredCapabilities();
                 cap.setBrowserName("chrome");
@@ -87,4 +90,7 @@ import java.time.Duration;
 // WebDriverManager.chromedriver().driverVersion("111.0.5563.19").setup();
             return webDriver;
         }
+
     }
+
+
