@@ -17,6 +17,8 @@ import static org.junit.Assert.assertTrue;
 
 
 public class SearchTest  extends BaseTest {
+
+
     @Test
     public void searchButtonTest() {
         pageProvider.getHomePage().openHomePage();
