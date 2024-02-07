@@ -12,6 +12,10 @@ public class HomePage extends ParentPage {
     private Header header;
     @FindBy(xpath = "//*[@id='search']/div/div/button]")
     private WebElement searchButton;
+
+    @FindBy (xpath = "//*[@id=\"form-language\"]/div/button/span/span[2]")
+    private WebElement dropDownSelectValue;
+
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -48,6 +52,20 @@ public class HomePage extends ParentPage {
     }
     public boolean isButtonSearchDisplayed() {
         return isElementDisplayed(searchButton);
+    }
+
+
+    //select text in drop down
+    public HomePage selectTextInDropDown (String textInDropDown) {
+        //TODO select text in drop down
+        selectTextInDropDown(dropDownSelectValue, textInDropDown);
+        return this;
+    }
+    //select Value in drop down
+    public HomePage selectValueInDropDown(String valueInDropDown) {
+        //TODO select value in drop down
+        selectValueInDropDown(dropDownSelectValue, valueInDropDown);
+        return this;
     }
 
 }
