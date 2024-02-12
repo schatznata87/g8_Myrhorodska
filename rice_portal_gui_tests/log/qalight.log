@@ -1,253 +1,353 @@
-2024-02-02 16:39:15   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 16:40:25   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 16:48:05   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 16:49:23   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 16:54:24   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 17:21:55   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 17:24:44   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-02-02 19:05:24   INFO [mainTests.loginTest] : ----validLogin was started----
-2024-05-02 12:58:51   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
-2024-05-02 12:58:55   INFO [org.example.AddToCartTest] : Browser was opened
-2024-05-02 12:58:56  ERROR [org.example.pages.AllProductsPage] : Can not open null/katalog/
-2024-05-02 12:58:56   INFO [org.example.AddToCartTest] : Browser was closed
-2024-05-02 12:58:56   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
-2024-05-02 13:00:26   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 13:00:29   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 13:00:51   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 13:00:52   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 13:00:52   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 13:04:31   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 13:04:35   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 13:04:35   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 13:04:57   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 13:04:57   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 13:04:57   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 13:04:57   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 13:04:57   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 13:05:48   INFO [org.example.AddToCartTest] : ----checkAddToCart was started----
-2024-05-02 13:05:52   INFO [org.example.AddToCartTest] : Browser was opened
-2024-05-02 13:06:13   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 13:06:14   INFO [org.example.AddToCartTest] : Browser was closed
-2024-05-02 13:06:14   INFO [org.example.AddToCartTest] : ----checkAddToCart was ended----
-2024-05-02 14:19:42   INFO [org.example.SearchTest] : ----searchButtonTest was started----
-2024-05-02 14:19:46   INFO [org.example.SearchTest] : Browser was opened
-2024-05-02 14:20:41   INFO [org.example.SearchTest] : Browser was closed
-2024-05-02 14:20:41   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-05-02 14:49:46   INFO [org.example.SearchTest] : ----searchButtonTest was started----
-2024-05-02 14:49:50   INFO [org.example.SearchTest] : Browser was opened
-2024-05-02 14:50:43   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-05-02 14:50:44   INFO [org.example.SearchTest] : Browser was closed
-2024-05-02 14:50:44   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-05-02 15:12:34   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 15:12:38   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:15:38  ERROR [org.example.pages.AllProductsPage] : Can not open https://irinatydnyuk.com/katalog/
-2024-05-02 15:38:09   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 15:38:14   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:40:41   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 15:45:19   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 15:45:23   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:45:27   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 15:45:27   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 15:45:27   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 15:45:27   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 15:45:55   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 15:45:59   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:46:02   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 15:46:02   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 15:46:02   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 15:46:02   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 15:48:49   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 15:48:54   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:49:25   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 15:49:26   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 15:49:26   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 15:52:53   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 15:52:57   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:53:38   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 15:54:42   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 15:54:46   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:58:17   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 15:58:22   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 15:59:49   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 15:59:49   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 15:59:49   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 15:59:49   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 15:59:50   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 15:59:50   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 16:03:38   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 16:03:42   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:04:10   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:04:11   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 16:04:11   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 16:04:35   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was started----
-2024-05-02 16:04:38   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:05:41   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:05:41   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 16:05:41   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 16:05:41   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 16:05:42   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 16:05:42   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 16:13:52   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 16:13:55   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:14:25   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:14:25   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 16:14:25   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 16:14:25   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 16:16:18   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 16:16:22   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:16:37   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:16:37   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 16:16:37   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 16:16:37   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 16:16:55   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 16:16:59   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:17:26   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:17:26   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 16:17:26   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 16:17:26   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 16:18:21   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 16:18:24   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:19:08   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:19:08   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 16:19:08   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 16:19:08   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 16:19:56   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 16:20:00   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 16:20:18   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-05-02 16:20:18   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-05-02 16:20:18   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-05-02 16:20:18   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-05-02 16:20:19   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 16:20:19   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 22:57:11   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 22:57:16   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 22:57:37   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog was opened
-2024-05-02 22:57:38   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 22:57:38   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-05-02 22:58:58   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 22:59:02   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 23:00:05   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 23:00:10   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 23:02:23   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-05-02 23:02:29   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-05-02 23:03:11  ERROR [org.example.pages.AllProductsPage] : Can not open https://irinatydnyuk.com/katalog/
-2024-05-02 23:03:17   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-05-02 23:03:17   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-06-02 00:18:39   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 00:18:45   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 00:19:00   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-06-02 00:19:01   INFO [org.example.SearchTest] : Browser was closed
-2024-06-02 00:19:01   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-06-02 01:25:05   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 01:25:10   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 01:25:39   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-06-02 01:25:40   INFO [org.example.SearchTest] : Browser was closed
-2024-06-02 01:25:40   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-06-02 01:29:43   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 01:29:47   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 01:30:16   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-06-02 01:30:17   INFO [org.example.SearchTest] : Browser was closed
-2024-06-02 01:30:17   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-06-02 01:35:39   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 01:35:43   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 01:48:29   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 01:48:33   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 01:48:33   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-06-02 01:49:12   INFO [org.example.SearchTest] : Browser was closed
-2024-06-02 01:49:12   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-06-02 01:49:46   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 01:49:49   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 01:49:50   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-06-02 01:50:01   INFO [org.example.SearchTest] : Browser was closed
-2024-06-02 01:50:01   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-06-02 10:48:51   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-06-02 10:49:00   INFO [org.example.SearchTest] : Browser was opened
-2024-06-02 10:49:01   INFO [org.example.pages.HomePage] : Page https://irinatydnyuk.com/ was opened
-2024-06-02 20:47:40   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-06-02 20:47:45   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-06-02 20:48:22   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 20:48:22   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 20:48:22   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-06-02 20:48:22   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-06-02 20:48:23   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-06-02 20:48:23   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-06-02 20:58:27   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-06-02 20:58:31   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-06-02 20:59:05   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 20:59:05   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 20:59:05   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-06-02 20:59:05   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-06-02 20:59:05   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-06-02 20:59:05   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-06-02 22:50:07   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-06-02 22:50:11   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-06-02 22:50:12   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 22:50:12   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 22:50:31   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-06-02 22:50:31   INFO [org.example.pages.AllProductsPage] : Number of filters is 4
-2024-06-02 22:50:32   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-06-02 22:50:32   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-06-02 22:53:10   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-06-02 22:53:14   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-06-02 22:53:22   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 22:53:22   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 22:53:51   INFO [org.example.pages.AllProductsPage] : All filters are visible
-2024-06-02 22:53:53   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-06-02 22:53:53   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-06-02 22:54:31   INFO [org.example.AllProductsPageTest] : ---------checkNumberOfFilters was started ----------
-2024-06-02 22:54:35   INFO [org.example.AllProductsPageTest] : Browser was opened
-2024-06-02 22:55:41   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 22:55:41   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 22:55:45   INFO [org.example.AllProductsPageTest] : Browser was closed
-2024-06-02 22:55:45   INFO [org.example.AllProductsPageTest] : ----checkNumberOfFilters was ended----
-2024-06-02 23:22:44   INFO [org.example.AddToCartTest] : ---------addToCartTest was started ----------
-2024-06-02 23:22:48   INFO [org.example.AddToCartTest] : Browser was opened
-2024-06-02 23:22:56   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 23:22:56   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 23:23:32   INFO [org.example.AddToCartTest] : Browser was closed
-2024-06-02 23:23:32   INFO [org.example.AddToCartTest] : ----addToCartTest was ended----
-2024-06-02 23:25:12   INFO [org.example.AddToCartTest] : ---------addToCartTest was started ----------
-2024-06-02 23:25:16   INFO [org.example.AddToCartTest] : Browser was opened
-2024-06-02 23:26:02   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 23:26:02   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 23:26:03   INFO [org.example.AddToCartTest] : Browser was closed
-2024-06-02 23:26:03   INFO [org.example.AddToCartTest] : ----addToCartTest was ended----
-2024-06-02 23:49:17   INFO [org.example.AddToCartTest] : ---------addToCartTest was started ----------
-2024-06-02 23:49:21   INFO [org.example.AddToCartTest] : Browser was opened
-2024-06-02 23:49:27   INFO [org.example.AddToCartTest] : Browser was closed
-2024-06-02 23:49:27   INFO [org.example.AddToCartTest] : ----addToCartTest was ended----
-2024-06-02 23:50:54   INFO [org.example.AddToCartTest] : ---------addToCartTest was started ----------
-2024-06-02 23:50:58   INFO [org.example.AddToCartTest] : Browser was opened
-2024-06-02 23:51:11   INFO [org.example.pages.AllProductsPage] : Page https://irinatydnyuk.com/katalog/ was opened
-2024-06-02 23:51:11   INFO [org.example.pages.AllProductsPage] : All products page was opened
-2024-06-02 23:51:40   INFO [org.example.AddToCartTest] : Browser was closed
-2024-06-02 23:51:40   INFO [org.example.AddToCartTest] : ----addToCartTest was ended----
-2024-07-02 00:21:02   INFO [org.example.AddToCartTest] : ---------addToCartTest was started ----------
-2024-07-02 00:21:06   INFO [org.example.AddToCartTest] : Browser was opened
-2024-07-02 00:21:55   INFO [org.example.AddToCartTest] : ---------addToCartTest was started ----------
-2024-07-02 00:22:00   INFO [org.example.AddToCartTest] : Browser was opened
-2024-07-02 00:22:42  ERROR [org.example.pages.AllProductsPage] : Can not open https://irinatydnyuk.com/katalog/
-2024-07-02 00:22:46   INFO [org.example.AddToCartTest] : Browser was closed
-2024-07-02 00:22:46   INFO [org.example.AddToCartTest] : ----addToCartTest was ended----
-2024-07-02 10:30:19   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-07-02 10:30:24   INFO [org.example.SearchTest] : Browser was opened
-2024-07-02 10:30:49   INFO [org.example.pages.HomePage] : Home page was openedhttps://irinatydnyuk.com
-2024-07-02 10:30:49  ERROR [org.example.pages.HomePage] : Can not work with element 
-2024-07-02 10:30:49  ERROR [org.example.pages.HomePage] : Can not work with elementorg.openqa.selenium.InvalidSelectorException: invalid selector: Unable to locate an element with the xpath expression //*[@id='search']/div/div/button] because of the following error:
-SyntaxError: Failed to execute 'evaluate' on 'Document': The string '//*[@id='search']/div/div/button]' is not a valid XPath expression.
-  (Session info: chrome=121.0.6167.140)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalid-selector-exception
-Build info: version: '4.11.0', revision: '040bc5406b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.10'
+2024-11-02 21:29:42   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 21:29:48   INFO [AddToCartTest] : Browser was opened
+2024-11-02 21:29:49   INFO [AddToCartTest] : Browser was closed
+2024-11-02 21:29:49   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 21:31:25   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 21:31:27   INFO [AddToCartTest] : Browser was opened
+2024-11-02 21:31:28   INFO [AddToCartTest] : Browser was closed
+2024-11-02 21:31:28   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:12:22   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:12:25   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:12:26   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:12:26   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:13:08   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:13:10   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:13:10   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:13:10   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:13:35   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:13:37   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:13:37   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:13:37   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:14:59   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:15:01   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:15:07   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:15:07   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:15:07   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:32:11   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:32:13   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:32:19   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:32:19   INFO [AddToCartTest] : Name of product #0: Жіноча чорна парка
+2024-11-02 22:32:19   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:32:19   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:36:01   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:36:04   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:36:08   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:36:08   INFO [AddToCartTest] : Name of product #0: Жіноча чорна парка
+2024-11-02 22:36:08   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:36:08   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:36:58   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:37:01   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:37:06   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:37:06   INFO [AddToCartTest] : Name of product #0: Жіноча чорна парка
+2024-11-02 22:37:06   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:37:06   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:38:11   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:38:14   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:38:19   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:38:19   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:38:19   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:40:13   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:40:17   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:40:21   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:40:21   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 22:40:21   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:40:21   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:41:43   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:41:47   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:41:51   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:41:51   INFO [AddToCartTest] : Name of product #1: Жіноча чорна парка
+2024-11-02 22:41:51   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:41:51   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:48:12   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:48:16   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:48:20   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:48:20   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 22:48:21   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:48:21   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 22:57:34   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 22:57:37   INFO [AddToCartTest] : Browser was opened
+2024-11-02 22:57:42   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 22:57:42   INFO [AddToCartTest] : Name of product #1: Жіноча чорна парка
+2024-11-02 22:57:42   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-11-02 22:57:46   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 22:57:46   INFO [AddToCartTest] : Browser was closed
+2024-11-02 22:57:46   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 23:05:04   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 23:05:08   INFO [AddToCartTest] : Browser was opened
+2024-11-02 23:05:12   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 23:05:12   INFO [AddToCartTest] : Name of product #1: Жіноча чорна парка
+2024-11-02 23:05:13   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-11-02 23:05:16   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 23:05:16   INFO [AddToCartTest] : Browser was closed
+2024-11-02 23:05:16   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 23:27:07   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 23:27:11   INFO [AddToCartTest] : Browser was opened
+2024-11-02 23:27:16   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 23:27:16   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 23:27:16   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-11-02 23:27:17   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 23:27:18   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:27:23   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:27:23   INFO [AddToCartTest] : Browser was closed
+2024-11-02 23:27:23   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 23:33:09   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 23:33:13   INFO [AddToCartTest] : Browser was opened
+2024-11-02 23:33:18   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 23:33:18   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 23:33:18   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-11-02 23:33:20   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 23:33:20   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:33:25   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:33:25   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-11-02 23:33:29   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:33:29   INFO [AddToCartTest] : Browser was closed
+2024-11-02 23:33:29   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 23:38:12   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 23:38:16   INFO [AddToCartTest] : Browser was opened
+2024-11-02 23:38:20   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 23:38:20   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 23:38:20   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-11-02 23:38:22   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 23:38:22   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:38:25   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:38:25   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-11-02 23:38:31   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:38:36   INFO [pages.elements.Header] : Element is displayed
+2024-11-02 23:38:38   INFO [pages.elements.Header] : 1 Element was clicked
+2024-11-02 23:38:38   INFO [AddToCartTest] : Browser was closed
+2024-11-02 23:38:38   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 23:50:52   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 23:50:56   INFO [AddToCartTest] : Browser was opened
+2024-11-02 23:51:01   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 23:51:01   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 23:51:01   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-11-02 23:51:03   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 23:51:03   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:51:08   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:51:09   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-11-02 23:51:12   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:51:17   INFO [pages.elements.Header] : Element is displayed
+2024-11-02 23:51:18   INFO [pages.elements.Header] : 1 Element was clicked
+2024-11-02 23:51:18   INFO [pages.CartPage] : Number of cart items is 1
+2024-11-02 23:51:18   INFO [AddToCartTest] : Browser was closed
+2024-11-02 23:51:18   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-11-02 23:58:45   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-11-02 23:58:48   INFO [AddToCartTest] : Browser was opened
+2024-11-02 23:58:53   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-11-02 23:58:53   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-11-02 23:58:53   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-11-02 23:58:55   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-11-02 23:58:55   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:59:00   INFO [pages.ProductPage] :  Element was clicked
+2024-11-02 23:59:01   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-11-02 23:59:05   INFO [pages.ProductPage] : close Element was clicked
+2024-11-02 23:59:10   INFO [pages.elements.Header] : Element is displayed
+2024-11-02 23:59:12   INFO [pages.elements.Header] : 1 Element was clicked
+2024-11-02 23:59:12   INFO [pages.CartPage] : Number of cart items is 1
+2024-11-02 23:59:12   INFO [AddToCartTest] : Browser was closed
+2024-11-02 23:59:12   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:00:22   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:00:26   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:00:30   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:00:30   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:00:31   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 00:00:32   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:00:33   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:00:38   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:00:38   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:00:42   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:00:42   INFO [pages.elements.Header] : Element is displayed
+2024-12-02 00:00:47   INFO [pages.elements.Header] : 1 Element was clicked
+2024-12-02 00:00:47   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:00:47   INFO [pages.CartPage] : Product name is Світло-зелена парка
+2024-12-02 00:00:47   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:00:47   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:07:22   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:07:26   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:07:31   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:07:31   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:07:31   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 00:07:33   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:07:33   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:07:38   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:07:38   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:07:46   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:07:47   INFO [pages.elements.Header] : Element is displayed
+2024-12-02 00:07:48  ERROR [pages.elements.Header] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/shop/cart" class="header__link header__link-cart">...</a> is not clickable at point (1486, 23). Other element would receive the click: <div class="modal-wrap product-basket">...</div>
+  (Session info: chrome=121.0.6167.161)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [d4c9f10dd588b85846e03f6c74fca257, findElement {using=xpath, value=//*[@id='search']/div/div/button]}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.140, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\WINDOWS\SystemTemp\scope...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64306}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64306/devtoo..., se:cdpVersion: 121.0.6167.140, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: d4c9f10dd588b85846e03f6c74fca257
-2024-07-02 10:30:50   INFO [org.example.SearchTest] : Browser was closed
-2024-07-02 10:30:50   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
-2024-07-02 10:43:55   INFO [org.example.SearchTest] : ---------searchButtonTest was started ----------
-2024-07-02 10:44:00   INFO [org.example.SearchTest] : Browser was opened
-2024-07-02 10:44:37   INFO [org.example.pages.HomePage] : Home page was openedhttps://irinatydnyuk.com
-2024-07-02 10:44:37  ERROR [org.example.pages.HomePage] : Can not work with element 
-2024-07-02 10:44:37   INFO [org.example.SearchTest] : Browser was closed
-2024-07-02 10:44:37   INFO [org.example.SearchTest] : ----searchButtonTest was ended----
+Command: [36d163a7db8aa1e89e566b1df8ed8124, clickElement {id=E326585FB16C4FEC9F322CA075A2D914_element_1651}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\Alonger\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62898}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62898/devtoo..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (36d163a7db8aa1e89e566b1df8ed8124)] -> xpath: //a[contains(@class, 'header__link-cart')]]
+Session ID: 36d163a7db8aa1e89e566b1df8ed8124
+2024-12-02 00:07:48   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:07:48   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:09:17   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:09:21   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:09:26   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:09:26   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:09:26   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 00:09:28   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:09:28   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:09:34   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:09:34   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:09:38   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:09:42   INFO [pages.elements.Header] : Element is displayed
+2024-12-02 00:09:43   INFO [pages.elements.Header] : 1 Element was clicked
+2024-12-02 00:09:43   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:09:44   INFO [pages.CartPage] : Product name is Світло-зелена парка
+2024-12-02 00:09:44   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:09:44   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:11:12   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:11:16   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:11:21   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:11:21   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:11:21   INFO [pages.WomanProductListPage] : Product 'Чорно-рожева укорочена пухнаста куртка' was opened
+2024-12-02 00:11:23   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:11:23   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:11:23   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:11:23   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:12:22   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:12:26   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:12:30   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:12:30   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:12:31   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 00:12:34   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:12:35   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:12:36   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:12:36   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:12:43   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:12:45   INFO [pages.elements.Header] : Element is displayed
+2024-12-02 00:12:46  ERROR [pages.elements.Header] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/shop/cart" class="header__link header__link-cart">...</a> is not clickable at point (1486, 23). Other element would receive the click: <div class="modal-wrap product-basket">...</div>
+  (Session info: chrome=121.0.6167.161)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f883e1b72ac93434a74ff20bea6ede5d, clickElement {id=FDA48D2D37DCBB937FA6503255402850_element_1790}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\Alonger\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63262}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63262/devtoo..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f883e1b72ac93434a74ff20bea6ede5d)] -> xpath: //a[contains(@class, 'header__link-cart')]]
+Session ID: f883e1b72ac93434a74ff20bea6ede5d
+2024-12-02 00:12:46   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:12:46   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:13:36   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:13:40   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:13:45   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:13:45   INFO [AddToCartTest] : Name of product #1: Жіноча чорна парка
+2024-12-02 00:13:45   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 00:13:49   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:13:49   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:13:50   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:13:51   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:13:53   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:13:53   INFO [pages.elements.Header] : Element is displayed
+2024-12-02 00:13:55  ERROR [pages.elements.Header] : Can not work with elementorg.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="/shop/cart" class="header__link header__link-cart">...</a> is not clickable at point (1486, 23). Other element would receive the click: <div class="modal-wrap product-basket">...</div>
+  (Session info: chrome=121.0.6167.161)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [43ce24be9bf1491f8a1f13fafa8f817b, clickElement {id=AC83A5F02379E3B85C240C71EAAF2EE0_element_1791}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.161, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\Alonger\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63338}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63338/devtoo..., se:cdpVersion: 121.0.6167.161, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (43ce24be9bf1491f8a1f13fafa8f817b)] -> xpath: //a[contains(@class, 'header__link-cart')]]
+Session ID: 43ce24be9bf1491f8a1f13fafa8f817b
+2024-12-02 00:13:55   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:13:55   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:16:39   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:16:43   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:16:49   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:16:49   INFO [AddToCartTest] : Name of product #1: Жіноча чорна парка
+2024-12-02 00:16:49   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 00:16:51   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:16:52   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:16:55   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:16:55   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:17:00   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 00:17:01   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 00:17:01   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:17:01   INFO [pages.CartPage] : Product name is Жіноча чорна парка
+2024-12-02 00:17:01   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:17:01   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:18:16   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:18:19   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:18:25   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:18:25   INFO [AddToCartTest] : Name of product #2: Чорно-рожева укорочена пухнаста куртка
+2024-12-02 00:18:25   INFO [pages.WomanProductListPage] : Product 'Чорно-рожева укорочена пухнаста куртка' was opened
+2024-12-02 00:18:27   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:18:27   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:18:27   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:18:27   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:19:03   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:19:06   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:19:10   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:19:11   INFO [AddToCartTest] : Name of product #0: Жіноча чорна парка
+2024-12-02 00:19:11   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 00:19:15   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:19:15   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:19:16   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:19:16   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:19:25   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:19:26   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 00:19:26   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:19:27   INFO [pages.CartPage] : Product name is Жіноча чорна парка
+2024-12-02 00:19:27   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:19:27   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:21:05   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:21:08   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:21:13   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:21:13   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:21:13   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 00:21:15   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:21:15   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:21:21   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:21:21   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:21:25   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:21:26   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 00:21:26   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:21:27   INFO [pages.CartPage] : Product name is Світло-зелена парка
+2024-12-02 00:21:27   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:21:27   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:22:12   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:22:15   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:22:21   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:22:21   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:22:21   INFO [pages.WomanProductListPage] : Product 'Жіноча чорна парка' was opened
+2024-12-02 00:22:23   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:22:23   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:22:29   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:22:29   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:22:34   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:22:35   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 00:22:36   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:22:36   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:22:36   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 00:23:09   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 00:23:12   INFO [AddToCartTest] : Browser was opened
+2024-12-02 00:23:25   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 00:23:25   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 00:23:25   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 00:23:26   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 00:23:27   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:23:32   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 00:23:32   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 00:23:39   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 00:23:40   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 00:23:40   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 00:23:40   INFO [pages.CartPage] : Product name is Світло-зелена парка
+2024-12-02 00:23:40   INFO [AddToCartTest] : Browser was closed
+2024-12-02 00:23:40   INFO [AddToCartTest] : ----addToCartTest was ended----
+2024-12-02 10:16:30   INFO [AddToCartTest] : ---------addToCartTest was started ----------
+2024-12-02 10:16:38   INFO [AddToCartTest] : Browser was opened
+2024-12-02 10:16:43   INFO [pages.WomanProductListPage] : Page /zhinkam was opened
+2024-12-02 10:16:43   INFO [AddToCartTest] : Name of product #1: Світло-зелена парка
+2024-12-02 10:16:43   INFO [pages.WomanProductListPage] : Product 'Світло-зелена парка' was opened
+2024-12-02 10:16:45   INFO [pages.WomanProductListPage] :  Element was clicked
+2024-12-02 10:16:45   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 10:16:46   INFO [pages.ProductPage] :  Element was clicked
+2024-12-02 10:16:46   INFO [pages.ProductPage] : ДОДАТИ ДО КОШИКА Element was clicked
+2024-12-02 10:16:46   INFO [pages.ProductPage] : close Element was clicked
+2024-12-02 10:16:47   INFO [pages.CartPage] : Page /shop/cart was opened
+2024-12-02 10:16:47   INFO [pages.CartPage] : Number of cart items is 1
+2024-12-02 10:16:47   INFO [pages.CartPage] : Product name is Світло-зелена парка
+2024-12-02 10:16:47   INFO [AddToCartTest] : Browser was closed
+2024-12-02 10:16:47   INFO [AddToCartTest] : ----addToCartTest was ended----
